@@ -26,11 +26,13 @@ Left : Unity default downsizing. Right : Bicubic. Bicubic looks more sharpen.
 # To Do
 
 ENG : I will do these. But I am not sure I have time(or my will) to handle these : 
+- Mac support.
 - Optimization during converting from Bitmap into Texture
 - Expand to use various algorithm
 - Get feedbacks and check it is worth letting this feature into Unity's native. Please give me your feedback on my Facebook : https://www.facebook.com/ozlael.oz
 
 KOR : 다음 내용들을 추가로 작업할 예정입니다. 다만, 이를 처리할 시간(혹은 의지)이 있을 지는 모르겠습니다 :
+- Mac 지원.
 - 비트맵을 텍스쳐로 변환하는 과정의 최적화
 - 다양한 알고리즘을 사용할 수 있도록 확장
 - 피드백을 수집하고 유니티 네이티브 기능으로 삼을만한 가치가 있는 지 확인. 페이스북으로 피드백 주세요 : https://www.facebook.com/ozlael.oz
